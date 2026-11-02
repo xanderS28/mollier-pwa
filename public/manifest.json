@@ -1,0 +1,16 @@
+{
+  "name": "Diagrama de Mollier - Turbinas a Vapor y Gas",
+  "short_name": "Mollier",
+  "description": "Calculadora interactiva del diagrama h-s para expansión de vapor.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020817",
+  "theme_color": "#020817",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
